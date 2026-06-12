@@ -1,7 +1,5 @@
-# 대회 데이터 (용량 큰 JSON)
-arc-agi_*.json
-sample_submission.json
-submission*.json
+# 제출 파일만 제외 (생성 파일)
+submission.json
 
 # Python
 __pycache__/
