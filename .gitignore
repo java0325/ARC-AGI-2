@@ -1,0 +1,17 @@
+# 대회 데이터 (용량 큰 JSON)
+arc-agi_*.json
+sample_submission.json
+submission*.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 환경
+.env
+*.env
